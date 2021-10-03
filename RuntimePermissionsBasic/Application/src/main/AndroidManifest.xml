@@ -44,5 +44,5 @@
                 android:exported="false"/>
 
     </application>
-
+<!-- END -->
 </manifest>
